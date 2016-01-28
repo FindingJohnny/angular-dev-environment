@@ -16,7 +16,7 @@
                 state: 'example',
                 config: {
                     abstract: true,
-                    template: '<ui-view class="shuffle-animation"/>',
+                    template: '<div ui-view></div>',
                     url: '/'
                 }
             },

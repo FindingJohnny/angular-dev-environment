@@ -1,5 +1,5 @@
 # Development Environment
-This is a stripped down version of JohnPapa's [gulp-patterns](https://github.com/johnpap/gulp-patterns). It is intended for developers who want to create an Angular environment from the ground up. It contains a variety of basic tools to allow the developer to hit the ground running.
+This is a stripped down version of JohnPapa's [gulp-patterns](https://github.com/johnpapa/gulp-patterns). It is intended for developers who want to create an Angular environment from the ground up. It contains a variety of basic tools to allow the developer to hit the ground running.
 
 ## Getting Started
 * Install nvm from [source repo](https://github.com/creationix/nvm) (run the first code block under 'Install Script')
