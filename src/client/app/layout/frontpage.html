@@ -1,0 +1,20 @@
+<div ng-controller="FrontPage as vm">
+    <div ng-include="app/layout/ht-top-nav.html"></div>
+    <section id="content" class="content">
+        <section class="mainbar">
+            <section class="matter">
+                <div ui-view class="shuffle-animation"></div>
+            </section>
+        </section>
+
+        <!-- ngPlus shows a loading screen if you choose to include it
+        <div ngplus-overlay
+             ngplus-overlay-delay-in="50"
+             ngplus-overlay-delay-out="700"
+             ngplus-overlay-animation="dissolve-animation">
+            <img src="images/busy.gif"/>
+
+            <div class="page-spinner-message overlay-message">{{vm.busyMessage}}</div>
+        </div>-->
+    </section>
+</div>
