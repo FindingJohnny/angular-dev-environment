@@ -6,6 +6,7 @@ This is a stripped down version of JohnPapa's [gulp-patterns](https://github.com
 * `source nvm-setup`
     * If you get a message saying 'N/A: version "v0.10.25" is not yet installed', run `nvm install 0.10.25` before continuing
     * Re-execute `source nvm-setup` after the ancient version of node is installed
+* `npm install -g node-inspector bower gulp tsd`
 * `npm install`
 * `bower install`
 * `tsd install -r -o --save`
