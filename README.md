@@ -2,6 +2,8 @@
 This is a stripped down version of JohnPapa's [gulp-patterns](https://github.com/johnpapa/gulp-patterns). It is intended for developers who want to create an Angular environment from the ground up. It contains a variety of basic tools to allow the developer to hit the ground running.
 
 ## Getting Started
+Please Note: The `nvm-setup` is written as a Bash script and thus the environment is intended for Bash users.
+
 * Install nvm from [source repo](https://github.com/creationix/nvm) (run the first code block under 'Install Script')
 * `source nvm-setup`
     * If you get a message saying 'N/A: version "v0.10.25" is not yet installed', run `nvm install 0.10.25` before continuing
