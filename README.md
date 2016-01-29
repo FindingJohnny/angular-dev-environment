@@ -1,6 +1,8 @@
 # Development Environment
 This is a stripped down version of JohnPapa's [gulp-patterns](https://github.com/johnpapa/gulp-patterns). It is intended for developers who want to create an Angular environment from the ground up. It contains a variety of basic tools to allow the developer to hit the ground running.
 
+Generating a new environment is as simple as using [Yeoman Generators](http://yeoman.io/generators/).
+
 ## Getting Started
 Please Note: The `nvm-setup` is written as a Bash script and thus the environment is intended for Bash users.
 
